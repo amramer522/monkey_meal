@@ -1,0 +1,18 @@
+{
+  "langTextName": "عربى",
+  "login": "تسجيل الدخول",
+  "signUp": "تسجيل",
+  "name": "الاسم",
+  "password": "كلمة المرور",
+  "confirmPassword": "تأكيد الباسورد",
+  "email": "البريد الالكترونى",
+  "address": "العنوان",
+  "alreadyHaveAnAccount": "هل تمتلك حساب؟",
+  "mobileNo": "رقم الهاتف",
+  "addYourDetailsToSignUp": "ادخل بياناتك للتسجيل",
+  "hintAfterSplash": "Discover the best foods from over 1,000\nrestaurants and fast delivery to your doorstep",
+  "send": "ارسال",
+  "finish": "انهاء",
+  "resetPassword": "اعادة تعيين كلمة المرور",
+  "resetPassHint": "Please enter your email to receive a \nlink to  create a new password via email"
+}

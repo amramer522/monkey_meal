@@ -1,0 +1,18 @@
+{
+  "langTextName": "En",
+  "login": "Login",
+  "signUp": "Sign Up",
+  "name": "Name",
+  "password": "Password",
+  "confirmPassword": "Confirm Password",
+  "email": "Email",
+  "address": "Address",
+  "alreadyHaveAnAccount": "Already have an Account? ",
+  "mobileNo": "Mobile No",
+  "addYourDetailsToSignUp": "Add your details to sign up",
+  "hintAfterSplash": "Discover the best foods from over 1,000\nrestaurants and fast delivery to your doorstep",
+  "send": "Send",
+  "finish": "Finish",
+  "resetPassword": "Reset Password",
+  "resetPassHint": "Please enter your email to receive a \nlink to  create a new password via email"
+}
